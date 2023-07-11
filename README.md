@@ -2,6 +2,18 @@
 This is entry point document for Mobile Engineering Final Project
 
 ## Final Project
+### Requirement
+- List disaster in x period
+- Filterable List (flood, earthquake, fire, haze, volcano, etc)
+- Filter based on area 
+- Show disaster on Map (Participant can use Google Maps, Mapbox, or other similar open source map)
+- Notification Alert based on water level
+- Support light/dark theme
+- Animation Loading
+
+### API
+Please use this free API: https://docs.petabencana.id/routes/pemantauan-tma 
+
 ### Design
 You can follow this design or you can modify current design as long as still provide all feature requirement
 
@@ -14,3 +26,5 @@ Please follow this steps:
 - Create a github account if you don't have an account
 - Please submit request to this form  https://forms.gle/BRKj2tZu44LbV6B47
 - Our team will invite you to #mobile-engineering team
+
+[Documentation](https://docs.google.com/document/d/1LnAXX8RGiOrjv-Gb1kXZgecWgOn4BYJMAA7xx0RornU/edit?usp=sharing)
