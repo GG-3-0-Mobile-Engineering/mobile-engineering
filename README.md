@@ -1,7 +1,7 @@
 # Generasi Gigih 3.0 Mobile Engineering Track
 This is entry point document for Mobile Engineering Final Project
 
-## Final Project
+## Mid and Final Project
 ### Requirement
 - List disaster in x period
 - Filterable List (flood, earthquake, fire, haze, volcano, etc)
@@ -10,6 +10,20 @@ This is entry point document for Mobile Engineering Final Project
 - Notification Alert based on water level
 - Support light/dark theme
 - Animation Loading
+
+### Additional Requirement for Final Term:
+- Use Dependecies Injection with Dagger or Hilt
+- Implementing Unit Test
+- Implementing Instrument Test 
+
+## Expectation
+We expect participants to start working on this Final Project from day one. We have 2 grading systems, Mid term and Final term. Grader will evaluate these 3 main point below
+- Functionality, all features should be working properly without any bugs
+- Documentation, provide documentation (Code documentation and project documentation)
+- Code Hygiene, follow engineering best practice
+### Additional for Final Term:
+- Concept, Implementing Design Pattern and Solid Principle
+
 
 ### API
 Please use this free API: https://docs.petabencana.id/routes/pemantauan-tma 
