@@ -13,8 +13,8 @@ This is entry point document for Mobile Engineering Final Project
 
 ### Additional Requirement for Final Term:
 - Use Dependecies Injection with Dagger or Hilt
-- Implementing Unit Test
-- Implementing Instrument Test 
+- Implementing Unit Test (Please put the coverage test result in documentation)
+- Implementing Instrument Test for all main use case (Please put link video of the instrumentation flow in the documentation)
 
 ## Expectation
 We expect participants to start working on this Final Project from day one. We have 2 grading systems, Mid term and Final term. Grader will evaluate these 3 main point below
@@ -22,8 +22,9 @@ We expect participants to start working on this Final Project from day one. We h
 - Documentation, provide documentation (Code documentation and project documentation)
 - Code Hygiene, follow engineering best practice
 ### Additional for Final Term:
-- Concept, Implementing Design Pattern and Solid Principle
-
+`Concept` 
+- Implementing Design Pattern that we already learn, at least MVVM and DI
+- Implementing SOLID Principle, at least SOID
 
 ### API
 Please use this free API: https://docs.petabencana.id/routes/pemantauan-tma 
