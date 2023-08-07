@@ -41,5 +41,7 @@ Please follow this steps:
 - Create a github account if you don't have an account
 - Please submit request to this form  https://forms.gle/BRKj2tZu44LbV6B47
 - Our team will invite you to #mobile-engineering team
+- Please note that for mid term project, you can create separate branch with name `feat/midterm` and for final project you can continue in `master` or `develop` or `main` branch (depending on your default branch)
 
+### FAQ
 [Documentation](https://docs.google.com/document/d/1LnAXX8RGiOrjv-Gb1kXZgecWgOn4BYJMAA7xx0RornU/edit?usp=sharing)
